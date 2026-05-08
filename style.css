@@ -1,7 +1,12 @@
 *{
     box-sizing: border-box;
     padding: 0;
-    margin: 0;
+    margin: 0; {
+    
+.heading {
+    width: 100vh;
+    height: 100vw;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
 }
-
-/* write all your rules below */
