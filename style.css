@@ -4,16 +4,32 @@
     margin: 0; 
 
 }
-    
- 
- .header{
-          width: 400px;
-          height: 200px;
-          background-color: red;
-          border: 1px solid #54aeff;
-          padding: 20px;            
-          border-radius: 6px;
- }   
- .new{
-    border: 2px solid blue;
+ #heading {
+    background-color:pink;
+    border:10px solid red;
+    margin:20px;
+    width:70%;
  }
+ #box-1{
+    background-color: aqua;
+    border:10vw solid aqua;
+    height:25vw;
+    width:90%;
+ }
+ #box-2{
+    background-color:yellow;
+    border:10px solid pink;
+    height:5vw;
+    width:40%;
+    margin:2vw;
+ }
+ #text1{
+   color:blue;
+ }
+ #text2{
+   color:green;
+ }
+ .text{
+   color:purple;
+ }
+
